@@ -1,0 +1,41 @@
+_repo: Stalemate_32594
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, Leo Ramon
+    - Summers, L. R.
+    - Summers, L.R.
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: archival
+  image_path: 32594-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wells, Basil
+    alias: Wells, Basil Eugene
+    birthdate: 1912
+    deathdate: 2003
+    gutenberg_agent_id: '33148'
+    url: http://www.gutenberg.org/2009/agents/33148
+description: Cover; Title Page; Copyright Page; Stalemate.
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'War stories'
+- !lcsh 'Dueling -- Fiction'
+- !lcc 'PS'
+title: Stalemate
+url: http://www.gutenberg.org/ebooks/32594
