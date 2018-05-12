@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '33148'
     url: http://www.gutenberg.org/2009/agents/33148
 description: Cover; Title Page; Copyright Page; Stalemate.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32594#Stalemate
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
 identifiers:
